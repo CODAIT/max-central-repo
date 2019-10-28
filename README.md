@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.ibm.com/CODAIT/central-repo/raw/master/images/title.png">
+  <img src="https://github.com/CODAIT/max-central-repo/raw/master/images/title.png">
 </div>
 
 
