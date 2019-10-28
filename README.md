@@ -88,11 +88,11 @@ We use Github Pull Requests for tracking requests and bugs, please direct any qu
 
 ## General resources
 
-- Check the current status for the [Model Asset Exchange](https://developer.ibm.com/exchanges/models/) ecosystem [here](http://ibm.biz/max-status).
+1. Check the current status for the [Model Asset Exchange](https://developer.ibm.com/exchanges/models/) ecosystem [here](http://ibm.biz/max-status).
 
-- MAX Framework: Python package that contains common code shared across all MAX models - ([link](https://github.com/IBM/MAX-Framework))
+2. MAX Framework: Python package that contains common code shared across all MAX models - ([link](https://github.com/IBM/MAX-Framework))
 
-- MAX Skeleton: Docker based deployment skeleton for deep learning models on the Model Asset Exchange - ([link](https://github.com/IBM/MAX-Skeleton))
+3. MAX Skeleton: Docker based deployment skeleton for deep learning models on the Model Asset Exchange - ([link](https://github.com/IBM/MAX-Skeleton))
 
 ## Tutorials
 
