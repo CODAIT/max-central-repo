@@ -37,7 +37,7 @@ Below is an (incomplete) list of people (in alphabetical order) who contributed 
 - Alex Bozarth
 - Anooj Patel
 - Brendan Dwyer
-- Bryan Cuter
+- Bryan Cutler
 - Collin Abidi
 - Daniel Jalova
 - Edward Leardi
