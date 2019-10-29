@@ -6,7 +6,7 @@ The maintainers are listed in alphabetical order.
 
 - Alex Bozarth
 - Brendan Dwyer
-- Bryan Cuter
+- Bryan Cutler
 - Daniel Jalova
 - Edward Leardi
 - Fei Hu

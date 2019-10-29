@@ -18,7 +18,7 @@ Subscribe to our newsletters to keep updated with the recent announcements [here
 The Model Asset Exchange on IBM Developer is a place for developers to find and use free, open source, state-of-the-art deep learning models for common application domains.
 The curated list includes deployable models that you can run as a microservice locally or in the cloud on contanerization platforms like Docker, Kubernetes or OpenShift, and trainable models where you can use your own data to train the models.
 
-Models are licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+Models are licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 
 Domains covered: Text, Vision, Audio, and Time-Series. 
 
@@ -26,9 +26,9 @@ Models can be consumed via:
  
 1. Any [programming language](https://github.com/IBM/MAX-Object-Detector/blob/master/demo.ipynb)
 2. [WebApp](https://developer.ibm.com/patterns/create-a-web-app-to-interact-with-objects-detected-using-machine-learning/)
-3. [NodeRed Flow](http://ibm.biz/max-for-node-red)
+3. [Node-RED Flow](http://ibm.biz/max-for-node-red)
 4. [Serverless App](https://developer.ibm.com/tutorials/deploy-a-model-asset-exchange-microservice-on-red-hat-openshift/)
-5. [CodePen](https://codepen.io/)
+5. [CodePen](https://codepen.io/collection/DzdpJM/#)
 
 # Contributing to the Model Asset Exchange
 
@@ -83,7 +83,7 @@ We use Github Pull Requests for tracking requests and bugs, please direct any qu
 | NLP    | [Word Embedding Generator](https://developer.ibm.com/exchanges/models/all/max-word-embedding-generator/)| TensorFlow | Random Text | Word Embeddings |
 | Vision | [Object Detector](https://developer.ibm.com/exchanges/models/all/max-object-detector/)| TensorFlow | [COCO](http://mscoco.org/) | Object Detection | <p> [WebApp](http://max-object-detector.max.us-south.containers.appdomain.cloud/app/) <br> [Node-RED](https://flows.nodered.org/flow/33d3214c1f5774009ffbc983c96f1594) <br> [CodePen](https://codepen.io/collection/DzdpJM/)|
 | Vision | [ResNet-50](https://developer.ibm.com/exchanges/models/all/max-resnet-50/)| Keras | [ImageNet](http://www.image-net.org/) | Image Classification ||
-| Vision | [Image Segmenter](https://developer.ibm.com/exchanges/models/all/max-image-segmenter/)| TensorFlow | [VOC2012 ~10k images](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/) | Semantic image segmentation | <p> [Demo](https://developer.ibm.com/patterns/max-image-segmenter-magic-cropping-tool-web-app/) <br> [WebApp](https://codait.github.io/max-photo-booth/) <br> [Node-RED](https://flows.nodered.org/flow/d905e599add7f49cb71890df78b458d7) <br> [CodePen](https://codepen.io/collection/DzdpJM/) |
+| Vision | [Image Segmenter](https://developer.ibm.com/exchanges/models/all/max-image-segmenter/)| TensorFlow | [VOC2012 ~10k images](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/) | Semantic Image Segmentation | <p> [Demo](https://developer.ibm.com/patterns/max-image-segmenter-magic-cropping-tool-web-app/) <br> [WebApp](https://codait.github.io/max-photo-booth/) <br> [Node-RED](https://flows.nodered.org/flow/d905e599add7f49cb71890df78b458d7) <br> [CodePen](https://codepen.io/collection/DzdpJM/) |
 
 
 ## General resources
