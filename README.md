@@ -88,7 +88,7 @@ We use Github Pull Requests for tracking requests and bugs, please direct any qu
 
 ## General resources
 
-1. Check the current status for the [Model Asset Exchange](https://developer.ibm.com/exchanges/models/) ecosystem [here](http://ibm.biz/max-status).
+1. Check the current status for the [Model Asset Exchange](https://developer.ibm.com/exchanges/models/) ecosystem [here](max-model-status.md).
 
 2. MAX Framework: Python package that contains common code shared across all MAX models - ([link](https://github.com/IBM/MAX-Framework))
 
