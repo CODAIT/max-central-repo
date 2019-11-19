@@ -43,6 +43,7 @@ Current status for the https://developer.ibm.com/exchanges/models/ ecosystem.
 | [MAX Framework](https://github.com/IBM/MAX-Framework) | [![Build Status](https://travis-ci.com/IBM/MAX-Framework.svg?branch=master)](https://travis-ci.com/IBM/MAX-Framework) | [![PyPi release](https://img.shields.io/pypi/v/maxfw.svg)](https://pypi.org/project/maxfw/) |
 | [MAX-Skeleton](https://github.com/IBM/MAX-Skeleton)  | [![Build Status](https://travis-ci.com/IBM/MAX-Skeleton.svg?branch=master)](https://travis-ci.com/IBM/MAX-Skeleton) | [![GitHub release](https://img.shields.io/github/release/IBM/MAX-Skeleton.svg)](https://github.com/IBM/MAX-Skeleton/releases/latest) |
 | [MAX Training Framework](https://github.com/IBM/MAX-Training-Framework) | [![Build Status](https://travis-ci.com/IBM/MAX-Training-Framework.svg?branch=master)](https://travis-ci.com/IBM/MAX-Training-Framework) | [![PyPi release](https://img.shields.io/pypi/v/max-training-framework.svg)](https://pypi.org/project/max-training-framework/) |
+| [MAX Training Skeleton](https://github.com/IBM/MAX-Training-Skeleton) | [![Build Status](https://travis-ci.com/IBM/MAX-Training-Skeleton.svg?branch=master)](https://travis-ci.com/IBM/MAX-Training-Skeleton) |  |
 
 ### Demo applications
 
