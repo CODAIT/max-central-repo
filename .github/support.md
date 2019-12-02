@@ -9,3 +9,4 @@ Ask general question about MAX here. If the question is about a particular MAX m
 - Operating system:
 - Docker version: [Output from `docker --version`]
 - CPU:
+- RAM:
