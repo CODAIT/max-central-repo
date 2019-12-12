@@ -35,10 +35,12 @@ Models can be consumed via:
 We welcome anyone who wants to make contributions to the Model Asset Exchange. Please review the [contribution guidelines](contribution.md). This project adheres to code of conduct mentioned [here](CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code.
 
-For those who want to contribute a model to MAX, here is a quick summary of the process:
-1. To contribute code, documentation, or tests, please submit a pull request using the [template](PULL_REQUEST_TEMPLATE.md) to this GitHub repository. 
-2. Our [maintainers](MAINTAINERS.md) will review your proposal.
-3. If approved, wrap the model using the [MAX-Skeleton as a guide](https://github.com/IBM/MAX-Skeleton).
+1. To start a general discussion create an issue in this repo.
+2. For model-specific questions, go to the corresponding model repository and create an issue.
+3. For those who want to contribute a model to MAX, here is a quick summary of the process:
+   - To contribute code, documentation, or tests, please submit a pull request using the [template](PULL_REQUEST_TEMPLATE.md)      to this GitHub repository. 
+   - Our [maintainers](MAINTAINERS.md) will review your proposal.  
+   - If approved, wrap the model using the [MAX-Skeleton as a guide](https://github.com/IBM/MAX-Skeleton).
 
 We use Github Pull Requests for tracking requests and bugs, please direct any questions to [our Slack channel](https://model-asset-exchange.slack.com/join/shared_invite/enQtNDQ4OTQxODUyMTYwLTI1NzgyMTRlNWE4ZGE3NmQ5ZjJhYjEwZjA3ZmY4NWViN2MxMWJiZjg0NzM1MTNiZGYwYmQ0MjQ2Mzk3YzI1Yjc).
 
