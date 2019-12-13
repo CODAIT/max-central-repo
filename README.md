@@ -96,12 +96,16 @@ We use Github Pull Requests for tracking requests and bugs, please direct any qu
 
 3. MAX Skeleton: Docker based deployment skeleton for deep learning models on the Model Asset Exchange - ([link](https://github.com/IBM/MAX-Skeleton))
 
+1. MAX Training Framework: WML training framework library for the Model Asset Exchange ([link](https://github.com/IBM/MAX-Training-Framework))
+
 ## Tutorials
 
 1. [Get started with the Model Asset Exchange](https://developer.ibm.com/tutorials/getting-started-with-the-ibm-code-model-asset-exchange/)
-2. [Use Node-RED Node Generator to create new nodes from APIs and services](https://developer.ibm.com/tutorials/use-node-red-node-generator-to-create-new-nodes-from-apis-and-services/)
-3. [Leverage deep learning in your Node-RED flows](https://developer.ibm.com/tutorials/learn-how-to-leverage-deep-learning-in-your-node-red-flows/)
-4. [Deploy MAX models to the cloud with Kubernetes](https://developer.ibm.com/tutorials/deploy-max-models-to-ibm-cloud-with-kubernetes/)
+1. [Deploy deep learning models on Red Hat OpenShift](https://developer.ibm.com/tutorials/deploy-a-model-asset-exchange-microservice-on-red-hat-openshift/)
+1. [Deploy MAX models to the cloud with Kubernetes](https://developer.ibm.com/tutorials/deploy-max-models-to-ibm-cloud-with-kubernetes/)
+1. [Leverage deep learning in IBM Cloud Functions](https://developer.ibm.com/tutorials/leverage-deep-learning-in-apache-openwhisk-ibm-cloud-functions/)
+1. [Leverage deep learning in your Node-RED flows](https://developer.ibm.com/tutorials/learn-how-to-leverage-deep-learning-in-your-node-red-flows/)
+1. [Use Node-RED Node Generator to create new nodes from APIs and services](https://developer.ibm.com/tutorials/use-node-red-node-generator-to-create-new-nodes-from-apis-and-services/)
 
 ## Blogs
 
