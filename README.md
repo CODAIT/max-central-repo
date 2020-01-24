@@ -35,7 +35,7 @@ Models can be consumed via:
 If you have any questions that you would like to discuss with us:
 
 1. For general discussion, you are welcome to open an issue in [our issue tracker](https://github.com/CODAIT/max-central-repo/issues/new).
-2. For discussion with a particular model, you are welcome to open an issue in the corresponding repository. You can find a list of the repositories at https://github.com/CODAIT/max-central-repo/blob/master/max-model-status.md
+2. For a question about a particular model, you are welcome to open an issue in the corresponding repository. You can find a list of the repositories [here](https://github.com/CODAIT/max-central-repo/blob/master/max-model-status.md).
 
 # Contributing to the Model Asset Exchange
 
@@ -171,7 +171,6 @@ We use Github Pull Requests for tracking requests and bugs, please direct any qu
 2. [CODAIT Twitter](https://twitter.com/ibmcodait)
 3. [CODAIT Medium](https://medium.com/codait)
 4. [IBM Developer](https://developer.ibm.com/newsletters/)
-
 
 
 
