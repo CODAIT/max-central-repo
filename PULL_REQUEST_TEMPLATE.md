@@ -18,7 +18,7 @@ Please fill out the relevant template with as much detail as you can provide.
 ## Code Change
  1. Which model(s) are affected?
 
-    If this is about a particular MAX model, please close this page and ask in their respective repository. You can find a list of the repositories at https://github.com/CODAIT/max-central-repo/blob/master/max-model-status.md
+    If this is about a particular MAX model, please close this page and ask in their respective repository. You can find a list of the repositories [here](https://github.com/CODAIT/max-central-repo/blob/master/max-model-status.md).
 
  2. If it is performance issue, describe the bug:
  3. Link to the code to reproduce the issue:
