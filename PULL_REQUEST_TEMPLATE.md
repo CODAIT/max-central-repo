@@ -30,7 +30,7 @@ Please fill out the relevant template with as much detail as you can provide.
 ## Feature Request
  1. Which model(s) is this request for?
 
-    If this is about a particular MAX model, please close this page and ask in their respective repository. You can find a list of the repositories at https://github.com/CODAIT/max-central-repo/blob/master/max-model-status.md
+    If this is about a particular MAX model, please close this page and ask in their respective repository. You can find a list of the repositories [here](https://github.com/CODAIT/max-central-repo/blob/master/max-model-status.md).
 
  2. Is there already an existing implementation in case of a feature request?
  3. What will be the benefit of the change?
