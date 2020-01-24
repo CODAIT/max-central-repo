@@ -30,6 +30,13 @@ Models can be consumed via:
 4. [Serverless App](https://developer.ibm.com/tutorials/deploy-a-model-asset-exchange-microservice-on-red-hat-openshift/)
 5. [CodePen](https://codepen.io/collection/DzdpJM/#)
 
+# Contact Us
+
+If you have any questions that you would like to discuss with us:
+
+1. For general discussion, you are welcome to open an issue in [our issue tracker](https://github.com/CODAIT/max-central-repo/issues/new).
+2. For a question about a particular model, you are welcome to open an issue in the corresponding repository. You can find a list of the repositories [here](https://github.com/CODAIT/max-central-repo/blob/master/max-model-status.md).
+
 # Contributing to the Model Asset Exchange
 
 We welcome anyone who wants to make contributions to the Model Asset Exchange. Please review the [contribution guidelines](contribution.md). This project adheres to code of conduct mentioned [here](CODE_OF_CONDUCT.md).
@@ -38,7 +45,7 @@ By participating, you are expected to uphold this code.
 1. To start a general discussion create an issue in this repo.
 2. For model-specific questions, go to the corresponding model repository and create an issue.
 3. For those who want to contribute a model to MAX, here is a quick summary of the process:
-   - To contribute code, documentation, or tests, please submit a pull request using the [template](PULL_REQUEST_TEMPLATE.md)      to this GitHub repository. 
+   - To contribute code, documentation, or tests, please submit a pull request in [the model's repository](https://github.com/CODAIT/max-central-repo/blob/master/max-model-status.md) using the [template](PULL_REQUEST_TEMPLATE.md) to this GitHub repository. 
    - Our [maintainers](MAINTAINERS.md) will review your proposal.  
    - If approved, wrap the model using the [MAX-Skeleton as a guide](https://github.com/IBM/MAX-Skeleton).
 
@@ -164,7 +171,3 @@ We use Github Pull Requests for tracking requests and bugs, please direct any qu
 2. [CODAIT Twitter](https://twitter.com/ibmcodait)
 3. [CODAIT Medium](https://medium.com/codait)
 4. [IBM Developer](https://developer.ibm.com/newsletters/)
-
-
-
-
