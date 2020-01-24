@@ -42,10 +42,12 @@ If you have any questions that you would like to discuss with us:
 We welcome anyone who wants to make contributions to the Model Asset Exchange. Please review the [contribution guidelines](contribution.md). This project adheres to code of conduct mentioned [here](CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code.
 
-For those who want to contribute a model to MAX, here is a quick summary of the process:
-1. To contribute code, documentation, or tests, please submit a pull request in [the model's repository](https://github.com/CODAIT/max-central-repo/blob/master/max-model-status.md) using the [template](PULL_REQUEST_TEMPLATE.md) to this GitHub repository. 
-2. Our [maintainers](MAINTAINERS.md) will review your proposal.
-3. If approved, wrap the model using the [MAX-Skeleton as a guide](https://github.com/IBM/MAX-Skeleton).
+1. To start a general discussion create an issue in this repo.
+2. For model-specific questions, go to the corresponding model repository and create an issue.
+3. For those who want to contribute a model to MAX, here is a quick summary of the process:
+   - To contribute code, documentation, or tests, please submit a pull request in [the model's repository](https://github.com/CODAIT/max-central-repo/blob/master/max-model-status.md) using the [template](PULL_REQUEST_TEMPLATE.md) to this GitHub repository. 
+   - Our [maintainers](MAINTAINERS.md) will review your proposal.  
+   - If approved, wrap the model using the [MAX-Skeleton as a guide](https://github.com/IBM/MAX-Skeleton).
 
 We use Github Pull Requests for tracking requests and bugs, please direct any questions to [our Slack channel](https://model-asset-exchange.slack.com/join/shared_invite/enQtNDQ4OTQxODUyMTYwLTI1NzgyMTRlNWE4ZGE3NmQ5ZjJhYjEwZjA3ZmY4NWViN2MxMWJiZjg0NzM1MTNiZGYwYmQ0MjQ2Mzk3YzI1Yjc).
 
@@ -101,12 +103,16 @@ We use Github Pull Requests for tracking requests and bugs, please direct any qu
 
 3. MAX Skeleton: Docker based deployment skeleton for deep learning models on the Model Asset Exchange - ([link](https://github.com/IBM/MAX-Skeleton))
 
+1. MAX Training Framework: WML training framework library for the Model Asset Exchange ([link](https://github.com/IBM/MAX-Training-Framework))
+
 ## Tutorials
 
 1. [Get started with the Model Asset Exchange](https://developer.ibm.com/tutorials/getting-started-with-the-ibm-code-model-asset-exchange/)
-2. [Use Node-RED Node Generator to create new nodes from APIs and services](https://developer.ibm.com/tutorials/use-node-red-node-generator-to-create-new-nodes-from-apis-and-services/)
-3. [Leverage deep learning in your Node-RED flows](https://developer.ibm.com/tutorials/learn-how-to-leverage-deep-learning-in-your-node-red-flows/)
-4. [Deploy MAX models to the cloud with Kubernetes](https://developer.ibm.com/tutorials/deploy-max-models-to-ibm-cloud-with-kubernetes/)
+1. [Deploy deep learning models on Red Hat OpenShift](https://developer.ibm.com/tutorials/deploy-a-model-asset-exchange-microservice-on-red-hat-openshift/)
+1. [Deploy MAX models to the cloud with Kubernetes](https://developer.ibm.com/tutorials/deploy-max-models-to-ibm-cloud-with-kubernetes/)
+1. [Leverage deep learning in IBM Cloud Functions](https://developer.ibm.com/tutorials/leverage-deep-learning-in-apache-openwhisk-ibm-cloud-functions/)
+1. [Leverage deep learning in your Node-RED flows](https://developer.ibm.com/tutorials/learn-how-to-leverage-deep-learning-in-your-node-red-flows/)
+1. [Use Node-RED Node Generator to create new nodes from APIs and services](https://developer.ibm.com/tutorials/use-node-red-node-generator-to-create-new-nodes-from-apis-and-services/)
 
 ## Blogs
 
