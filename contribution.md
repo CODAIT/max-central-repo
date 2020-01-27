@@ -11,7 +11,7 @@ All models in the Model Asset Exchange are released under the [Apache License Ve
 
 ## Merge approval
 
-Every pull request requires approval from a maintainer who is not the author of the pull request.
+Every pull request requires approval from one maintainer who is not the author of the pull request.
 
 ## Does the proposed model or code change have positive impact?
 
