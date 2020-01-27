@@ -45,7 +45,7 @@ By participating, you are expected to uphold this code.
 1. To start a general discussion create an issue in this repo.
 2. For model-specific questions, go to the corresponding model repository and create an issue.
 3. For those who want to contribute a model to MAX, here is a quick summary of the process:
-   - To contribute code, documentation, or tests, please submit a pull request in [the model's repository](https://github.com/CODAIT/max-central-repo/blob/master/max-model-status.md) using the [template](PULL_REQUEST_TEMPLATE.md) to this GitHub repository. 
+   - To contribute code, documentation, or tests, please submit a pull request in the model's repository (a list is [available](https://github.com/CODAIT/max-central-repo/blob/master/max-model-status.md)). 
    - Our [maintainers](MAINTAINERS.md) will review your proposal.  
    - If approved, wrap the model using the [MAX-Skeleton as a guide](https://github.com/IBM/MAX-Skeleton).
 
