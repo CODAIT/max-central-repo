@@ -1,4 +1,10 @@
-# Pull Request Templates
+---
+name: New Model Proposal
+about: Propose a new model
+title: 'name of my new model'
+labels: 'model-proposal'
+assignees: ''
+---
 
 Please fill out the relevant template with as much detail as you can provide.
 
