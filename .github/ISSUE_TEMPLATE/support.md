@@ -2,7 +2,7 @@
 name: Support
 about: Create a ticket for support
 title: 'A brief description of my support question'
-labels: 'support'
+labels: 'question'
 assignees: ''
 ---
 
