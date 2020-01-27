@@ -119,9 +119,8 @@ We use Github Pull Requests for tracking requests and bugs, please direct any qu
 1. [Get an introduction to the Model Asset Exchange on IBM Developer](https://developer.ibm.com/articles/introduction-to-the-model-asset-exchange-on-ibm-developer/)
 2. [Open source and AI at IBM](https://developer.ibm.com/blogs/open-source-ibm-and-ai/)
 3. [Expanding the reach of the IBM Model Asset eXchange](https://developer.ibm.com/blogs/announcing-a-new-batch-of-model-asset-exchange-models/)
-4. [Real-time video annotation with deep learning model](https://developer.ibm.com/blogs/real-time-video-annotation-with-deep-learning-model/)
-5. [An introduction to the internals of the Model Asset eXchange](https://developer.ibm.com/blogs/an-introduction-to-the-internals-of-model-asset-exchange/)
-6. [Where are my new models for NLP? They’re here!](https://developer.ibm.com/blogs/max-models-for-natural-language-processing)
+4. [An introduction to the internals of the Model Asset eXchange](https://developer.ibm.com/blogs/an-introduction-to-the-internals-of-model-asset-exchange/)
+5. [Where are my new models for NLP? They’re here!](https://developer.ibm.com/blogs/max-models-for-natural-language-processing)
 
 ## Slides and Video Recordings
 
