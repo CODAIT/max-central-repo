@@ -11,7 +11,7 @@ All models in the Model Asset Exchange are released under the [Apache License Ve
 
 ## Merge approval
 
-The project maintainers use LGTM (Looks Good To Me) in comments on the pull request to express approval prior to merging. A change requires LGTMs from two project maintainers. If the pull request is proposed by a maintainer, the change requires only one LGTM.
+Every pull request requires approval from a maintainer who is not the author of the pull request.
 
 ## Does the proposed model or code change have positive impact?
 
