@@ -121,6 +121,7 @@ We use Github Pull Requests for tracking requests and bugs, please direct any qu
 3. [Expanding the reach of the IBM Model Asset eXchange](https://developer.ibm.com/blogs/announcing-a-new-batch-of-model-asset-exchange-models/)
 4. [An introduction to the internals of the Model Asset eXchange](https://developer.ibm.com/blogs/an-introduction-to-the-internals-of-model-asset-exchange/)
 5. [Where are my new models for NLP? They’re here!](https://developer.ibm.com/blogs/max-models-for-natural-language-processing)
+6. [Running MAX Deep Learning models on Raspberry Pi](https://developer.ibm.com/technologies/artificial-intelligence/blogs/running-max-deep-learning-models-on-raspberry-pi)
 
 ## Slides and Video Recordings
 
