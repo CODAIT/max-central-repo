@@ -171,3 +171,4 @@ We use Github Pull Requests for tracking requests and bugs, please direct any qu
 2. [CODAIT Twitter](https://twitter.com/ibmcodait)
 3. [CODAIT Medium](https://medium.com/codait)
 4. [IBM Developer](https://developer.ibm.com/newsletters/)
+5. [GitHub Issues](https://github.com/CODAIT/max-central-repo/issues)
